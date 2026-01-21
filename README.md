@@ -48,3 +48,5 @@ All investigations are conducted in simulated environments provided by the LetsD
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+> 💡 *Always learning. Always improving.*
