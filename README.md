@@ -1,7 +1,7 @@
 # Hi there, I'm Fahad Algethami 👋
 ### 🛡️ Aspiring SOC Analyst | 📍 Saudi Arabia
 
-I am a cybersecurity enthusiast focused on **Blue Team Operations** and **Incident Response**. I am currently finalizing the **CyberPro+** intensive training program, bridging the gap between theoretical knowledge and practical defense.
+I am a cybersecurity enthusiast focused on **Blue Team Operations** and **Incident Response**.
 
 ---
 
