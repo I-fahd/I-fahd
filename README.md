@@ -23,17 +23,13 @@ My learning journey emphasizes alert triage, phishing analysis, and structured i
 
 ---
 
-## 🎓 Certifications & Training
-
-CyberPro+ Program (Intensive Bootcamp)  
-A hands-on cybersecurity training program covering:
+## 🎓 Certifications
 
 - Security+ (Security Fundamentals)  
 - CySA+ (SOC & Threat Detection Concepts)  
 - Network+ (Networking & Infrastructure)  
 - Linux+ (System Administration Basics)  
-
-CCNA – Cisco Certified Network Associate  
+- CCNA – Cisco Certified Network Associate  
 
 ---
 
