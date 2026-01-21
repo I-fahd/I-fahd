@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Fahad Algethami 👋
+### 🛡️ Aspiring SOC Analyst | 📍 Saudi Arabia
 
-<!--
-**I-fahd/I-fahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity enthusiast focused on **Blue Team Operations** and **Incident Response**. I am currently finalizing the **CyberPro+** intensive training program, bridging the gap between theoretical knowledge and practical defense.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+| **Category** | **Skills & Tools** |
+| :--- | :--- |
+| 🛡️ **SOC Operations** | SIEM Log Analysis, Incident Triage, Phishing Analysis |
+| 🕵️‍♂️ **Forensics** | Network Traffic Analysis (Wireshark), Email Header Analysis |
+| 📜 **Frameworks** | MITRE ATT&CK, NIST Cybersecurity Framework |
+| 💻 **Systems** | Linux (CLI), Windows Security |
+
+---
+
+### 🎓 Certifications & Training
+
+**CyberPro+ Program** (Intensive Bootcamp)
+> A comprehensive training program covering the practical application of:
+* **Security+** (Core Principles)
+* **CySA+** (Cybersecurity Analyst)
+* **Network+** (Infrastructure Security)
+* **Linux+** (System Administration)
+
+---
+
+### 📂 Portfolio Highlights
+
+Here are some of the practical labs I have documented:
+
+* **[Phishing Email Analysis](https://github.com/FahadAlgethami/SOC-Labs)**: Analyzed suspicious headers and attachments to identify a credential harvesting attempt. (LetsDefend)
+* **[Malware Traffic Analysis](https://github.com/FahadAlgethami/SOC-Labs)**: Investigated PCAP files to trace C2 communication.
+
+---
+
+<div align="center">
+  <p>Let's Connect!</p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
