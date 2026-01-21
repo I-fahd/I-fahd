@@ -23,16 +23,6 @@ My learning journey emphasizes alert triage, phishing analysis, and structured i
 
 ---
 
-## 🎓 Certifications
-
-- Security+ (Security Fundamentals)  
-- CySA+ (SOC & Threat Detection Concepts)  
-- Network+ (Networking & Infrastructure)  
-- Linux+ (System Administration Basics)  
-- CCNA – Cisco Certified Network Associate  
-
----
-
 ## 📂 Portfolio Highlights
 
 I actively document my SOC alert investigations conducted in simulated environments.
