@@ -28,11 +28,13 @@ I am a cybersecurity enthusiast focused on **Blue Team Operations** and **Incide
 ---
 
 ### 📂 Portfolio Highlights
+I actively document my investigations into simulated cyberattacks.
+**[👉 Click here to view my full Investigation Log & Case Studies](https://github.com/I-fahd/SOC-Analyst-Portfolio)**
 
-Here are some of the practical labs I have documented:
-
-* **[Phishing Email Analysis](https://github.com/FahadAlgethami/SOC-Labs)**: Analyzed suspicious headers and attachments to identify a credential harvesting attempt. (LetsDefend)
-* **[Malware Traffic Analysis](https://github.com/FahadAlgethami/SOC-Labs)**: Investigated PCAP files to trace C2 communication.
+| Alert Type | Case ID | Verdict | Tools Used |
+| :--- | :--- | :--- | :--- |
+| **Phishing** | SOC141 | ✅ True Positive | VirusTotal, Log Management |
+| **Malware** | SOC114 | ✅ True Positive | VirusTotal, Endpoint Security |
 
 ---
 
