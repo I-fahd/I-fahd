@@ -36,7 +36,9 @@ I actively document my SOC alert investigations conducted in simulated environme
 
 ---
 
-> ⚠️ All investigations are performed in simulated SOC environments for learning purposes.
+## ⚠️ Disclaimer
+
+All investigations are conducted in simulated environments provided by the LetsDefend platform for learning purposes.
 
 ---
 
