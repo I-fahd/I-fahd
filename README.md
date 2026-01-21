@@ -1,45 +1,61 @@
 # Hi there, I'm Fahad Algethami 👋
-### 🛡️ Aspiring SOC Analyst | 📍 Saudi Arabia
+### 🛡 Aspiring SOC Analyst 
 
-I am a cybersecurity enthusiast focused on **Blue Team Operations** and **Incident Response**.
-
----
-
-### 🚀 Technical Skills
-
-| **Category** | **Skills & Tools** |
-| :--- | :--- |
-| 🛡️ **SOC Operations** | SIEM Log Analysis, Incident Triage, Phishing Analysis |
-| 🕵️‍♂️ **Forensics** | Network Traffic Analysis (Wireshark), Email Header Analysis |
-| 📜 **Frameworks** | MITRE ATT&CK, NIST Cybersecurity Framework |
-| 💻 **Systems** | Linux (CLI), Windows Security |
+I am an aspiring SOC Analyst with a strong interest in Blue Team operations and alert analysis.
+My learning journey emphasizes alert triage, phishing analysis, and structured incident documentation through simulated environments.
 
 ---
 
-### 🎓 Certifications & Training
+## 🚀 Currently Working On
 
-**CyberPro+ Program** (Intensive Bootcamp)
-> A comprehensive training program covering the practical application of:
-* **Security+** (Core Principles)
-* **CySA+** (Cybersecurity Analyst)
-* **Network+** (Infrastructure Security)
-* **Linux+** (System Administration)
+- Practicing phishing alert triage in simulated SOC environments  
+- Improving incident reporting and documentation quality  
+- Strengthening SIEM log analysis skills 
 
 ---
 
-### 📂 Portfolio Highlights
-I actively document my investigations into simulated cyberattacks.
-**[👉 Click here to view my full Investigation Log & Case Studies](https://github.com/I-fahd/SOC-Analyst-Portfolio)**
+## 🧠 Areas of Interest
 
-| Alert Type | Case ID | Verdict | Tools Used |
-| :--- | :--- | :--- | :--- |
-| **Phishing** | SOC141 | ✅ True Positive | VirusTotal, Log Management |
-| **Malware** | SOC114 | ✅ True Positive | VirusTotal, Endpoint Security |
+- SOC Operations & Security Monitoring  
+- Phishing and Email-based Threats  
+- Incident Triage & Alert Analysis  
+- Continuous Learning in Blue Team Security  
+
+---
+
+## 🎓 Certifications & Training
+
+CyberPro+ Program (Intensive Bootcamp)  
+A hands-on cybersecurity training program covering:
+
+- Security+ (Security Fundamentals)  
+- CySA+ (SOC & Threat Detection Concepts)  
+- Network+ (Networking & Infrastructure)  
+- Linux+ (System Administration Basics)  
+
+CCNA – Cisco Certified Network Associate  
+
+---
+
+## 📂 Portfolio Highlights
+
+I actively document my SOC alert investigations conducted in simulated environments.
+
+👉 [View Full Investigation Log & Case Studies](https://github.com/I-fahd/SOC-Analyst-Portfolio)
+
+| Alert Type | Case ID | Verdict |
+| :--- | :--- | :--- |
+| Phishing URL | SOC141 | ✅ True Positive |
+| Malicious Attachment | SOC114 | ✅ True Positive |
+
+---
+
+> ⚠️ All investigations are performed in simulated SOC environments for learning purposes.
 
 ---
 
 <div align="center">
-  <p>Let's Connect!</p>
+  <p><b>Let's Connect!</b></p>
   <a href="https://www.linkedin.com/in/fahad-algethami-462806270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
