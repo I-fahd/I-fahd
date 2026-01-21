@@ -40,7 +40,7 @@ I actively document my investigations into simulated cyberattacks.
 
 <div align="center">
   <p>Let's Connect!</p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/fahad-algethami-462806270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
